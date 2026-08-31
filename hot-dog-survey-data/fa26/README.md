@@ -14,5 +14,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-hotdog = pd.read_csv("data/raw/data.csv")
+hotdog = pd.read_csv("DS-4002/hot-dog-survey-data/fa26/HotDog.xlsx")
 ```
+* We explored some plotting as a team but I was working on getting back into GitHub, etc. so I don't have it in my own file.
